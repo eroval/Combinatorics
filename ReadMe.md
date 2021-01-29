@@ -1,1 +1,3 @@
-Will update this little project regularly. Plan to import different ways of generating Permutations and Combinations.
+## To do:
+- Import more ways to do combinations/permutations
+- Make them both iteratively and recursively
